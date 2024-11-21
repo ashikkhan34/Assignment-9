@@ -14,7 +14,7 @@ const AboutDev = () => {
                     <div className="max-w-md">
                         <h1 className="mb-5 text-5xl font-bold">Ashik khan</h1>
                         <p className="mb-5">
-                            I am a student . I read in class 13. I am a computer science and technology student at pabna polytechnic institute .
+                            I am a student . I read in class 13. I am a computer science and technology student at Pabna polytechnic institute of department of computer science
                         </p>
                         {/* Open the modal using document.getElementById('ID').showModal() method */}
                         <button className="btn" onClick={() => document.getElementById('my_modal_1').showModal()}>About more..</button>
