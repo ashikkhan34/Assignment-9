@@ -1,0 +1,193 @@
+[
+    {
+      "_id": 1,
+      "brand_name": "Tech Haven",
+      "rating": 4.7,
+      "description": "Tech Haven offers cutting-edge gadgets, laptops, and accessories at affordable prices. Enjoy exclusive deals, fast delivery, and seamless shopping. Trusted by thousands, elevate your tech experience with us today!",
+      "brand_logo": "https://i.ibb.co.com/vHVyC3Y/a.png",
+      "coupons": [
+        {
+          "coupon_code": "TECH20",
+          "description": "Get 20% off on all tech gadgets.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for purchases above $50.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.techhaven.com",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "_id": 2,
+      "brand_name": "Fashion Forward",
+      "rating": 4.5,
+      "description": "Fashion Forward offers trendy clothing, accessories, and footwear for all. Enjoy exclusive discounts, quality products, and exceptional service. Redefine your style with our curated collections today!",
+      "brand_logo": "https://i.ibb.co.com/RCmktRg/2.png",
+      "coupons": [
+        {
+          "coupon_code": "STYLE10",
+          "description": "Flat $10 off on your first purchase.",
+          "expiry_date": "2024-12-20",
+          "condition": "Minimum cart value of $50 required.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_Link": "https://www.fashionforward.com",
+      "category": "Fashion",
+      "isSaleOn": false
+    },
+    {
+      "_id": 3,
+      "brand_name": "Home Bliss",
+      "rating": 4.3,
+      "description": "Home Bliss provides premium furniture, lighting, and decor for stylish homes. Enjoy discounts, fast delivery, and transform your living space effortlessly today!",
+      "brand_logo": "https://i.ibb.co.com/c6NRsm8/3.png",
+      "coupons": [
+        {
+          "coupon_code": "DECOR15",
+          "description": "15% off on all home decor items.",
+          "expiry_date": "2024-11-25",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.homebliss.com",
+      "category": "Home Decor",
+      "isSaleOn": true
+    },
+    {
+      "_id": 4,
+      "brand_name": "Gadget Geeks",
+      "rating": 4.8,
+      "description": "Gadget Geeks offers unbeatable prices on gadgets and accessories. Trusted for quality, enjoy discounts, fast delivery, and affordable luxury for work or play.",
+      "brand_logo": "https://i.ibb.co.com/xLJSMx3/4.png",
+      "coupons": [
+        {
+          "coupon_code": "GADGET50",
+          "description": "Flat $50 off on select gadgets.",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid on a minimum purchase of $200.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_Link": "https://www.gadgetgeeks.com",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "_id": 5,
+      "brand_name": "Sports Arena",
+      "rating": 4.6,
+      "description": "Sports Arena delivers quality sportswear and accessories. Shop trusted brands, enjoy discounts, and elevate your fitness journey effortlessly with exceptional service.",
+      "brand_logo": "https://i.ibb.co.com/t2qnnfm/5.png",
+      "coupons": [
+        {
+          "coupon_code": "SPORTS10",
+          "description": "10% off on all sportswear.",
+          "expiry_date": "2024-12-31",
+          "condition": "Applicable for first-time buyers only.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.sportsarena.com",
+      "category": "Sports",
+      "isSaleOn": false
+    },
+    {
+      "_id": 6,
+      "brand_name": "Gourmet Paradise",
+      "rating": 4.9,
+      "description": "Gourmet Paradise offers luxurious treats and hampers. Enjoy 20% off, fast delivery, and premium quality products. Perfect for food lovers and gifting occasions.",
+      "brand_logo": "https://i.ibb.co.com/VMXzMLW/6.png",
+      "coupons": [
+        {
+          "coupon_code": "TASTE20",
+          "description": "20% off on all gourmet hampers.",
+          "expiry_date": "2024-12-25",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.gourmetparadise.com",
+      "category": "Food",
+      "isSaleOn": false
+    },
+    {
+      "_id": 7,
+      "brand_name": "Fitness First",
+      "rating": 4.4,
+      "description": "Fitness First provides top-quality fitness gear and supplements. Enjoy discounts, fast delivery, and premium products for your health and fitness goals.",
+      "brand_logo": "https://i.ibb.co.com/PhGHFjP/7.png",
+      "coupons": [
+        {
+          "coupon_code": "FITNESS15",
+          "description": "15% off on fitness gear.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid for orders above $75.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.fitnessfirst.com",
+      "category": "Fitness",
+      "isSaleOn": true
+    },
+    {
+      "_id": 8,
+      "brand_name": "Pet Pals",
+      "rating": 4.8,
+      "description": "Pet Pals offers premium supplies, toys, and grooming essentials for pets. Enjoy exclusive discounts, fast delivery, and unmatched care for your furry friends.",
+      "brand_logo": "https://i.ibb.co.com/jGB6H1C/8.png",
+      "coupons": [
+        {
+          "coupon_code": "PETSAVE10",
+          "description": "Save $10 on orders above $50.",
+          "expiry_date": "2024-12-10",
+          "condition": "Valid for first-time buyers only.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_Link": "https://www.petpals.com",
+      "category": "Pet Supplies",
+      "isSaleOn": false
+    },
+    {
+      "_id": 9,
+      "brand_name": "Travel Treasures",
+      "rating": 4.7,
+      "description": "Travel Treasures offers durable luggage and accessories. Enjoy exclusive discounts, fast delivery, and quality products for your next adventure.",
+      "brand_logo": "https://i.ibb.co.com/n65T4tB/9.png",
+      "coupons": [
+        {
+          "coupon_code": "TRAVEL25",
+          "description": "25% off on travel accessories.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid for orders above $100.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.traveltreasures.com",
+      "category": "Travel",
+      "isSaleOn": true
+    },
+    {
+      "_id": 10,
+      "brand_name": "Beauty Bliss",
+      "rating": 4.9,
+      "description": "Beauty Bliss offers luxurious skincare, makeup, and wellness products. Enjoy exclusive discounts, fast delivery, and premium quality for your beauty routine.",
+      "brand_logo": "https://i.ibb.co.com/W6nqF42/10.png",
+      "coupons": [
+        {
+          "coupon_code": "BLISS20",
+          "description": "20% off on all beauty products.",
+          "expiry_date": "2024-12-31",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Percentage Discount"
+        }
+      ],
+      "shop_Link": "https://www.beautybliss.com",
+      "category": "Beauty",
+      "isSaleOn": false
+    }
+  ]
+  
