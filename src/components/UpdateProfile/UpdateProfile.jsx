@@ -17,7 +17,7 @@ const UpdateProfile = () => {
     }
     return (
         <div>
-            <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl mx-auto mb-5">
+            <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl mx-auto mb-28">
                 <form onSubmit={updateInformation} className="card-body">
                     <div className="form-control">
                         <label className="label">
