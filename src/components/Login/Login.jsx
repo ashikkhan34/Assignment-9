@@ -72,7 +72,7 @@ const Login = () => {
                         )}
                         <div>
                             <p>Continue with
-                                <button className='ml-2 underline text-blue-500 ' onClick={handleGoogleLogin}>Google</button>
+                                <button type='button' className='ml-2 underline text-blue-500 ' onClick={handleGoogleLogin}>Google</button>
                             </p>
                         </div>
                     </div>
